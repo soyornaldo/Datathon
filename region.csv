@@ -1,0 +1,405 @@
+,nombre
+1,boise
+2,colorado springs
+3,norfolk / hampton roads
+4,phoenix
+5,nashville
+6,dallas / fort worth
+7,worcester / central MA
+8,wichita
+9,scranton / wilkes-barre
+10,maine
+11,south coast
+12,north mississippi
+13,abilene
+14,new orleans
+15,rochester
+16,louisville
+17,seattle-tacoma
+18,huntsville / decatur
+19,ventura county
+20,augusta
+21,charlotte
+22,roanoke
+23,cumberland valley
+24,omaha / council bluffs
+25,sarasota-bradenton
+26,san marcos
+27,albany
+28,tampa bay area
+29,inland empire
+30,salem
+31,little rock
+32,prescott
+33,hawaii
+34,central NJ
+35,lakeland
+36,provo / orem
+37,eastern panhandle
+38,athens
+39,lafayette
+40,asheville
+41,st cloud
+42,myrtle beach
+43,odessa / midland
+44,treasure coast
+45,wichita falls
+46,topeka
+47,shreveport
+48,okaloosa / walton
+49,dayton / springfield
+50,college station
+51,panama city
+52,SF bay area
+53,bowling green
+54,fredericksburg
+55,springfield
+56,columbia / jeff city
+57,flint
+58,monroe
+59,eugene
+60,anchorage / mat-su
+61,central michigan
+62,toledo
+63,san diego
+64,mobile
+65,winston-salem
+66,rapid city / west SD
+67,tulsa
+68,des moines
+69,york
+70,jacksonville
+71,"washington, DC"
+72,orlando
+73,bakersfield
+74,palm springs
+75,san antonio
+76,jackson
+77,galveston
+78,fort wayne
+79,northwest CT
+80,memphis
+81,mcallen / edinburg
+82,south jersey
+83,twin falls
+84,annapolis
+85,stillwater
+86,texoma
+87,minneapolis / st paul
+88,pensacola
+89,northwest GA
+90,long island
+91,baltimore
+92,daytona beach
+93,grand rapids
+94,hartford
+95,rhode island
+96,williamsport
+97,stockton
+98,lincoln
+99,space coast
+100,austin
+101,st augustine
+102,gainesville
+103,spokane / coeur d'alene
+104,columbus
+105,salt lake city
+106,bismarck
+107,los angeles
+108,"kansas city, MO"
+109,akron / canton
+110,corpus christi
+111,reno / tahoe
+112,elko
+113,fresno / madera
+114,wausau
+115,hilton head
+116,florida keys
+117,lansing
+118,western massachusetts
+119,north jersey
+120,new hampshire
+121,wenatchee
+122,milwaukee
+123,frederick
+124,heartland florida
+125,waco
+126,columbia
+127,eastern shore
+128,eastern NC
+129,battle creek
+130,detroit metro
+131,lancaster
+132,muskegon
+133,fort collins / north CO
+134,delaware
+135,gold country
+136,kennewick-pasco-richland
+137,tucson
+138,manhattan
+139,south florida
+140,las vegas
+141,savannah / hinesville
+142,portland
+143,reading
+144,southern maryland
+145,northwest KS
+146,atlanta
+147,greensboro
+148,grand forks
+149,wilmington
+150,gulfport / biloxi
+151,"st louis, MO"
+152,cleveland
+153,lawrence
+154,madison
+155,monterey bay
+156,greenville / upstate
+157,lafayette / west lafayette
+158,fayetteville
+159,harrisburg
+160,evansville
+161,tri-cities
+162,modesto
+163,utica-rome-oneida
+164,boulder
+165,philadelphia
+166,baton rouge
+167,east idaho
+168,binghamton
+169,macon / warner robins
+170,charleston
+171,denver
+172,jonesboro
+173,sacramento
+174,bloomington
+175,lubbock
+176,bend
+177,ogden-clearfield
+178,killeen / temple / ft hood
+179,cincinnati
+180,orange county
+181,sioux falls / SE SD
+182,cedar rapids
+183,beaumont / port arthur
+184,amarillo
+185,ft myers / SW florida
+186,visalia-tulare
+187,albuquerque
+188,boston
+189,saginaw-midland-baycity
+190,tallahassee
+191,iowa city
+192,houston
+193,"quad cities, IA/IL"
+194,raleigh / durham / CH
+195,tyler / east TX
+196,erie
+197,holland
+198,state college
+199,eastern CT
+200,chattanooga
+201,oklahoma city
+202,buffalo
+203,montgomery
+204,birmingham
+205,jersey shore
+206,mansfield
+207,indianapolis
+208,pittsburgh
+209,la crosse
+210,chicago
+211,charlottesville
+212,sierra vista
+213,north dakota
+214,billings
+215,lexington
+216,champaign urbana
+217,south bend / michiana
+218,richmond
+219,kokomo
+220,bellingham
+221,vermont
+222,northern michigan
+223,glens falls
+224,ames
+225,fargo / moorhead
+226,ann arbor
+227,auburn
+228,fairbanks
+229,el paso
+230,terre haute
+231,sioux city
+232,new york city
+233,high rockies
+234,kalamazoo
+235,corvallis/albany
+236,winchester
+237,logan
+238,houma
+239,yuma
+240,hanford-corcoran
+241,grand island
+242,syracuse
+243,tuscaloosa
+244,western slope
+245,kenai peninsula
+246,kenosha-racine
+247,western KY
+248,finger lakes
+249,wyoming
+250,fort dodge
+251,lawton
+252,santa maria
+253,victoria
+254,cape cod / islands
+255,santa barbara
+256,elmira-corning
+257,lehigh valley
+258,youngstown
+259,st george
+260,clarksville
+261,chico
+262,outer banks
+263,oneonta
+264,catskills
+265,southwest michigan
+266,florence
+267,new haven
+268,knoxville
+269,altoona-johnstown
+270,hudson valley
+271,flagstaff / sedona
+272,san luis obispo
+273,missoula
+274,lewiston / clarkston
+275,gadsden-anniston
+276,plattsburgh-adirondacks
+277,fort smith
+278,texarkana
+279,northwest OK
+280,bloomington-normal
+281,santa fe / taos
+282,ocala
+283,moses lake
+284,pueblo
+285,muncie / anderson
+286,mohave county
+287,yakima
+288,lynchburg
+289,valdosta
+290,waterloo / cedar falls
+291,medford-ashland
+292,show low
+293,southeast missouri
+294,imperial county
+295,joplin
+296,poconos
+297,meridian
+298,helena
+299,brownsville
+300,western maryland
+301,mankato
+302,appleton-oshkosh-FDL
+303,hattiesburg
+304,duluth / superior
+305,skagit / island / SJI
+306,mason city
+307,peoria
+308,humboldt county
+309,north platte
+310,harrisonburg
+311,roseburg
+312,port huron
+313,butte
+314,brainerd
+315,southwest VA
+316,decatur
+317,southern WV
+318,eau claire
+319,zanesville / cambridge
+320,dothan
+321,ithaca
+322,upper peninsula
+323,meadville
+324,merced
+325,pullman / moscow
+326,watertown
+327,scottsbluff / panhandle
+328,green bay
+329,southeast KS
+330,tuscarawas co
+331,potsdam-canton-massena
+332,northern panhandle
+333,southwest MS
+334,morgantown
+335,redding
+336,new river valley
+337,danville
+338,sheboygan
+339,olympic peninsula
+340,deep east texas
+341,lake charles
+342,rockford
+343,yuba-sutter
+344,laredo
+345,bemidji
+346,florence / muscle shoals
+347,kirksville
+348,north central FL
+349,brunswick
+350,lake of the ozarks
+351,boone
+352,western IL
+353,bozeman
+354,klamath falls
+355,eastern kentucky
+356,southwest MN
+357,statesboro
+358,cookeville
+359,oregon coast
+360,southern illinois
+361,huntington-ashland
+362,salina
+363,hickory / lenoir
+364,las cruces
+365,kalispell
+366,parkersburg-marietta
+367,mattoon-charleston
+368,roswell / carlsbad
+369,east oregon
+370,lima / findlay
+371,la salle co
+372,dubuque
+373,siskiyou county
+374,southeast alaska
+375,sandusky
+376,janesville
+377,chillicothe
+378,chautauqua
+379,farmington
+380,clovis / portales
+381,central louisiana
+382,west virginia (old)
+383,pierre / central SD
+384,st joseph
+385,san angelo
+386,eastern CO
+387,northern WI
+388,great falls
+389,eastern montana
+390,the thumb
+391,owensboro
+392,mendocino county
+393,del rio / eagle pass
+394,southwest KS
+395,southeast IA
+396,susanville
+397,twin tiers NY/PA
+398,southwest TX
+399,northeast SD
+400,south dakota
+401,st louis
+402,ashtabula
+403,"fort smith, AR"
+404,kansas city
